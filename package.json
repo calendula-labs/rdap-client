@@ -1,0 +1,13 @@
+{
+  "name": "rdap-client",
+  "version": "0.0.1",
+  "description": "Node.js RDAP client with typed object-style models",
+  "main": "src/index.js",
+  "scripts": {
+    "ip": "node ./scripts/lookup-ip.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
